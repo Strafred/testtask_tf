@@ -2,7 +2,7 @@
 
 Отчёт лежит в папке `results` в файле `prolongations_report.xlsx`.
 
-### Создание отчёта заново
+### Создание нового отчёта
 
 Для создания отчёта просто запустите по порядку все ячейки в файле `calculate_prolongations.ipynb` в Jupyter Notebook.
 
